@@ -82,7 +82,7 @@ Source: https://www.gdeltproject.org/
 Size: 80047 nodes, 321819 edges
 
 ```python
-print(datasets.dataset_info("OPEN_INTELLIGENCE")
+print(datasets.dataset_info("OPEN_INTELLIGENCE"))
 
 datasets.load("OPEN_INTELLIGENCE")
 ```
